@@ -13,7 +13,7 @@ Maintenance and Bugs
 This software has been pretty solid over the last several years. It has changed very little since 2017 and continues to display and log. 
 
 ### Issue List
-1. The database gets so big, accessing it becomes very slow. The issue along with the solutions are discussed [here](https://github.com/so-mops/bok-web-logger/issues/1)
+1. [The database gets so big, accessing it becomes very slow.](https://github.com/so-mops/bok-web-logger/issues/1)
 
 
 

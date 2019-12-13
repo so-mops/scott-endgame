@@ -1,4 +1,4 @@
- Scott's Endgame Projecct
+ Scott's Endgame Project
  ========================
 
 This respository will be documentation of recent projects that I (Scott Swindell) have worked on. The plan is to create one markdown document for each project. These markdown files will each include three things

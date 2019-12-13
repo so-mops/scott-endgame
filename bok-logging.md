@@ -10,7 +10,10 @@ You can see the web display [here](http://bok.as.arizona.edu:42080/bokdev/bokdev
 Maintenance and Bugs
 --------------------
 
-This software has been pretty solid over the last several years. It has changed very little since 2017 and continues to display and log. One issue I have had is that the database gets so big it is accessing it becomes very slow. 
+This software has been pretty solid over the last several years. It has changed very little since 2017 and continues to display and log. 
+
+### Issue List
+1. The database gets so big, accessing it becomes very slow. The issue along with the solutions are discussed [here](https://github.com/so-mops/bok-web-logger/issues/1)
 
 
 

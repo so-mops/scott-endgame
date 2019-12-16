@@ -16,3 +16,4 @@ List of Projects
 ----------------
 - [Bok web display and logging](bok-logging.md)
 - [Telcom](https://github.com/so-mops/scott-endgame/blob/master/telcom.md)
+- [The next generation of logging](https://github.com/so-mops/scott-endgame/blob/master/all-telescopes-logging.md)

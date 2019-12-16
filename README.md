@@ -15,3 +15,4 @@ The second section for each project should be fairly short. I want to keep any e
 List of Projects
 ----------------
 - [Bok web display and logging](bok-logging.md)
+- [Telcom](https://github.com/so-mops/scott-endgame/blob/master/telcom.md)

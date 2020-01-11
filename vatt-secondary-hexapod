@@ -1,0 +1,13 @@
+VATT Hexapod Secondary
+=====================
+The Secondary Mirror (M2) is positions and controlled by a PI Hexapod. Its source code is [here](https://github.com/so-mops/vatthex-indi). It is another INDI driver and the GUI is the (indi_webclient)[https://github.com/srswinde/indi_webclient]. 
+
+
+Maintenance and Bugs
+--------------------
+
+The Hexapod has been in operation at VATT since the latter half of 2017. It has been fairly stable since. 
+
+## Issue List
+1. The INDI driver loses communication to the control box after a night or two of use. It is unclear what causes this. The fix is to restart the controller. 
+2. Development deployment model is a little complicated because of all the integrated software (ie. indi_webclient, indiserver, docker). Read the README's of the [indi_webclient](https://github.com/srswinde/indi_webclient) and [indi driver](https://github.com/so-mops/vatthex-indi) carefully. 

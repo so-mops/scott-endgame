@@ -14,6 +14,8 @@ Telcom has been fairly reliable especially considering the low cost of the hardw
 ### Issue List
 1. [Ocassionally telcom needs to be restarted to allow subystems to connect to its socket server.](https://github.com/so-mops/legacy-py-telcom/issues/1)
 2. The rapsberrypi SD card needs to be replaced every few years. 
+3. At Bok telcom occasionally doesn't send the telemetry string. It sends a empty sting instead. 
+
 
 
 

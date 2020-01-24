@@ -13,3 +13,8 @@ Maintenence and Bugs
 --------------------
 
 1. The paddle buttons for the dome occasionally cause a dome runaway. The solution to this is to touch 
+
+
+Future Direction
+----------------
+These GUI's are written in python2.7 using TKinter. There is a python3 port but I am not sure it is working. It would be best to abandon these tools and incorporate functionality into existing INDI infrastructure. 

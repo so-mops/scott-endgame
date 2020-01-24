@@ -1,3 +1,5 @@
+# Deprecated!
+
 Logging and web display at the Bok Telescope
 ============================================
 The weather web display and logging at Bok uses django for both server side scripting and a SQL ORM. It is a rather old version of django and uses python2.7. In logging and web utilities at other telescopes I have switched to flask for the server side scripting and sqlalchemy as the ORM.  The source for logging and web display is split up into two repositories:
